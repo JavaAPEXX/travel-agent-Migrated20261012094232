@@ -1,0 +1,7 @@
+{
+  "job_id": "job_5df59ef4ec35",
+  "sourceRepoUrl": "https://github.com/hakanai/travel-agent",
+  "targetJavaVersion": "21",
+  "status": "MIGRATION_CHECKPOINT",
+  "migration_date": ""
+}
